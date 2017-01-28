@@ -19,10 +19,10 @@ test.py
 *This file automatically take python file, if we want another language for executing the code, take the little
 edit on file(execute.py) and change the Language you want instead of PYTHON and run it, i expect it'd work good,
 
-*PPS
+#PPS
 -------------
 **Any Bug Let me Know** 
 
 ##Licence
 
-Shivamzaz
+shivamzaz
